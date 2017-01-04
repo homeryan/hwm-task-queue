@@ -1,0 +1,21 @@
+{
+  "name": "hwm-task-queue",
+  "version": "0.1.0",
+  "description": "An async task queue with high-water mark event.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "async",
+    "task",
+    "queue",
+    "hwm",
+    "promise"
+  ],
+  "author": "Hong Yan",
+  "license": "MIT",
+  "dependencies": {
+    "co": "^4.6.0"
+  }
+}
